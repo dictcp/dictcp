@@ -1,3 +1,8 @@
+## Dick Tang
+[![Twitter Badge](https://img.shields.io/badge/-@dictcp-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dictcp)](https://twitter.com/dictcp)
+[![Linkedin Badge](https://img.shields.io/badge/-dictcp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dictcp/)](https://www.linkedin.com/in/dictcp/)
+[![Medium Badge](https://img.shields.io/badge/-@dictcp-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@dictcp/)](https://medium.com/@dictcp/)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=dictcp&show_icons=true)
+
